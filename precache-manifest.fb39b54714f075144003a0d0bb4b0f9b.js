@@ -1,15 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "d2a1d6ec39b7a2982edb",
-    "url": "/mari/static/css/main.a0789661.chunk.css"
+    "revision": "1c60e8990b20966cc2a9",
+    "url": "/mari/static/css/main.8bf60b1e.chunk.css"
   },
   {
-    "revision": "d2a1d6ec39b7a2982edb",
-    "url": "/mari/static/js/main.d2a1d6ec.chunk.js"
+    "revision": "1c60e8990b20966cc2a9",
+    "url": "/mari/static/js/main.1c60e899.chunk.js"
   },
   {
-    "revision": "2f7c282f3721a4eb92dd",
-    "url": "/mari/static/js/1.2f7c282f.chunk.js"
+    "revision": "7b44f60644b53423feeb",
+    "url": "/mari/static/css/1.94ef4c93.chunk.css"
+  },
+  {
+    "revision": "7b44f60644b53423feeb",
+    "url": "/mari/static/js/1.7b44f606.chunk.js"
   },
   {
     "revision": "5a0a391764a84810b556",
@@ -44,10 +48,6 @@ self.__precacheManifest = [
     "url": "/mari/static/media/artvjs.55aee38d.jpg"
   },
   {
-    "revision": "5dbe48a54e2d6aac1d422cd80a329cea",
-    "url": "/mari/static/media/vloger1.5dbe48a5.jpg"
-  },
-  {
     "revision": "0785a8549339de4bbd0bdb67f0bb0ebd",
     "url": "/mari/static/media/archiintro.0785a854.jpg"
   },
@@ -60,15 +60,7 @@ self.__precacheManifest = [
     "url": "/mari/static/media/archithadam2.940ceb3a.jpg"
   },
   {
-    "revision": "8f75bc0f12a56a47fa7aba156ac3337f",
-    "url": "/mari/static/media/londoneye.8f75bc0f.jpg"
-  },
-  {
-    "revision": "9602a7e6652e98825e830ffa65e64294",
-    "url": "/mari/static/media/walk.9602a7e6.jpg"
-  },
-  {
-    "revision": "7698e17cb716d594cf96f9dfc2ed57d5",
+    "revision": "d1c9c044d1011fcb2ce57af000f1bac2",
     "url": "/mari/index.html"
   }
 ];
