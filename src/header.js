@@ -9,13 +9,17 @@ import home from './home';
 import Artist from './Artist.';
 import Vloger from './vloger';
 import archi from './Architet';
+import SocialFollow from "./SocialFollow"
 function Header() {
   return (
     <Router>
       <header style={headerStyle}>
         <h1>Maari Manoj Kumar</h1>
         <Link style={linkStyle} to="/playboy">PlayBoy</Link> | <Link style={linkStyle} to="/Artichect">Artichect</Link> | <Link style={linkStyle} to="/Vloger">Vloger</Link> | <Link style={linkStyle} to="/Artist">Artist</Link>
+        <h1></h1>
+        <SocialFollow />
       </header>
+    
       <Route exact path="/playboy" component={App} />
       <Route exact path="/" component={home} />
       <Route exact path="/Artist" component={Artist} />
