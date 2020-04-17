@@ -1,6 +1,7 @@
 import React from 'react'
 import { VerticalTimeline, VerticalTimelineElement }  from 'react-vertical-timeline-component';
 import 'react-vertical-timeline-component/style.min.css';
+import './styles.css'
 
 export default function vloger() {
   return (
@@ -137,7 +138,15 @@ export default function vloger() {
     // icon={<StarIcon />}
   />
 </VerticalTimeline>
-      
+<footer style={headerStyle}>
+      by Bharath
+    </footer>
     </div>
   )
+}
+const headerStyle = {
+  background: '#333',
+  color: '#fff',
+  textAlign: 'center',
+  padding: '10px'
 }
