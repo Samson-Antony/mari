@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "1c60e8990b20966cc2a9",
-    "url": "/mari/static/css/main.8bf60b1e.chunk.css"
+    "revision": "faed4067a71f283073a3",
+    "url": "/mari/static/css/main.dfd3963c.chunk.css"
   },
   {
-    "revision": "1c60e8990b20966cc2a9",
-    "url": "/mari/static/js/main.1c60e899.chunk.js"
+    "revision": "faed4067a71f283073a3",
+    "url": "/mari/static/js/main.faed4067.chunk.js"
   },
   {
-    "revision": "7b44f60644b53423feeb",
-    "url": "/mari/static/css/1.94ef4c93.chunk.css"
+    "revision": "f264d8ddd7737e9241e1",
+    "url": "/mari/static/css/1.75fd5120.chunk.css"
   },
   {
-    "revision": "7b44f60644b53423feeb",
-    "url": "/mari/static/js/1.7b44f606.chunk.js"
+    "revision": "f264d8ddd7737e9241e1",
+    "url": "/mari/static/js/1.f264d8dd.chunk.js"
   },
   {
     "revision": "5a0a391764a84810b556",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/mari/static/media/archithadam2.940ceb3a.jpg"
   },
   {
-    "revision": "d1c9c044d1011fcb2ce57af000f1bac2",
+    "revision": "a9b426f2140a622df46b210a97aa70ef",
     "url": "/mari/index.html"
   }
 ];
