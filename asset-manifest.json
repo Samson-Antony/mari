@@ -1,7 +1,7 @@
 {
-  "main.css": "/mari/static/css/main.dfd3963c.chunk.css",
-  "main.js": "/mari/static/js/main.faed4067.chunk.js",
-  "main.js.map": "/mari/static/js/main.faed4067.chunk.js.map",
+  "main.css": "/mari/static/css/main.a726318e.chunk.css",
+  "main.js": "/mari/static/js/main.7f7b425b.chunk.js",
+  "main.js.map": "/mari/static/js/main.7f7b425b.chunk.js.map",
   "static/css/1.75fd5120.chunk.css": "/mari/static/css/1.75fd5120.chunk.css",
   "static/js/1.f264d8dd.chunk.js": "/mari/static/js/1.f264d8dd.chunk.js",
   "static/js/1.f264d8dd.chunk.js.map": "/mari/static/js/1.f264d8dd.chunk.js.map",
@@ -17,9 +17,9 @@
   "static/media/archiintro.jpg": "/mari/static/media/archiintro.0785a854.jpg",
   "static/media/archithadam.jpg": "/mari/static/media/archithadam.4328397c.jpg",
   "static/media/archithadam2.jpg": "/mari/static/media/archithadam2.940ceb3a.jpg",
+  "static/css/main.a726318e.chunk.css.map": "/mari/static/css/main.a726318e.chunk.css.map",
   "static/css/1.75fd5120.chunk.css.map": "/mari/static/css/1.75fd5120.chunk.css.map",
-  "static/css/main.dfd3963c.chunk.css.map": "/mari/static/css/main.dfd3963c.chunk.css.map",
   "index.html": "/mari/index.html",
-  "precache-manifest.75619501227ef466bfb7e5497fbac335.js": "/mari/precache-manifest.75619501227ef466bfb7e5497fbac335.js",
+  "precache-manifest.c9bc6cf031eeb14ccb913f0fdd111038.js": "/mari/precache-manifest.c9bc6cf031eeb14ccb913f0fdd111038.js",
   "service-worker.js": "/mari/service-worker.js"
 }
