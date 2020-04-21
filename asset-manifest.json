@@ -1,10 +1,10 @@
 {
   "main.css": "/mari/static/css/main.a726318e.chunk.css",
-  "main.js": "/mari/static/js/main.7f7b425b.chunk.js",
-  "main.js.map": "/mari/static/js/main.7f7b425b.chunk.js.map",
+  "main.js": "/mari/static/js/main.480087e4.chunk.js",
+  "main.js.map": "/mari/static/js/main.480087e4.chunk.js.map",
   "static/css/1.75fd5120.chunk.css": "/mari/static/css/1.75fd5120.chunk.css",
-  "static/js/1.f264d8dd.chunk.js": "/mari/static/js/1.f264d8dd.chunk.js",
-  "static/js/1.f264d8dd.chunk.js.map": "/mari/static/js/1.f264d8dd.chunk.js.map",
+  "static/js/1.fcde7903.chunk.js": "/mari/static/js/1.fcde7903.chunk.js",
+  "static/js/1.fcde7903.chunk.js.map": "/mari/static/js/1.fcde7903.chunk.js.map",
   "runtime~main.js": "/mari/static/js/runtime~main.5a0a3917.js",
   "runtime~main.js.map": "/mari/static/js/runtime~main.5a0a3917.js.map",
   "static/media/marilux.jpeg": "/mari/static/media/marilux.5be723f1.jpeg",
@@ -20,6 +20,6 @@
   "static/css/main.a726318e.chunk.css.map": "/mari/static/css/main.a726318e.chunk.css.map",
   "static/css/1.75fd5120.chunk.css.map": "/mari/static/css/1.75fd5120.chunk.css.map",
   "index.html": "/mari/index.html",
-  "precache-manifest.c9bc6cf031eeb14ccb913f0fdd111038.js": "/mari/precache-manifest.c9bc6cf031eeb14ccb913f0fdd111038.js",
+  "precache-manifest.7d275ea2471b6c0dad3d14d0250e272d.js": "/mari/precache-manifest.7d275ea2471b6c0dad3d14d0250e272d.js",
   "service-worker.js": "/mari/service-worker.js"
 }
